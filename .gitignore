@@ -6,8 +6,6 @@ __pycache__/
 *.pyc
 
 # Данные
-train_images/
-test_images/
 *.csv
 *.tsv
 
