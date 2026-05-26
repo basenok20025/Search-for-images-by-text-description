@@ -5,9 +5,6 @@
 __pycache__/
 *.pyc
 
-# Данные
-*.csv
-*.tsv
 
 # Системные файлы
 .DS_Store
